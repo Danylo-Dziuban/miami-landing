@@ -1,9 +1,9 @@
 This progect is a landingf page for a real estate company based in Miami.
 
 Technologies used:
-   HTML5
-   CSS3
-   SASS
+   HTML5,
+   CSS3,
+   SASS,
    JavaScript, DOM
 
 - [DEMO LINK](https://Danylo-Dziuban.github.io/miami-landing/)
