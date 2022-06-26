@@ -1,4 +1,4 @@
-This progect is a landingf page for a real estate company based in Miami.
+This progect is a landing page for a real estate company based in Miami.
 
 Technologies used:
    HTML5,
